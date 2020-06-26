@@ -1,5 +1,6 @@
 = vtiger
-* http://estormtech.com
+* Build on top of existing Vtiger gem for handling ruby upgrades in a rails application.
+
 This gem provides access to vtiger from ruby.  It uses the vtiger web services to access the data in  vtiger system. 
 
 See the binary files to test the system. 
